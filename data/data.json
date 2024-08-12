@@ -1,0 +1,1982 @@
+[
+  {
+    "model": "Acer AL2671W HD Ready LCD TV",
+    "fault": "Sárgán világít a power LED, nem csinál semmit.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Akira LED-AK32ZA7DC LED TV",
+    "fault": "Nincs háttérfény.",
+    "repair": "LED panel javítás.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Akira LED-AKR32E1D LED TV",
+    "fault": "Logó megjelenik, majd újraindul.",
+    "repair": "Vezérlőpanel javítás. ",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Akira LED-B07HU26H LED TV",
+    "fault": "Csak a logo jelenik meg, nem lép tovább",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Benq DV3080 LCD TV",
+    "fault": "Nincs kép csak hang. Bekapcsoláskor egy pillanatra felvillan.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Benq",
+    "fault": "Nincs kép csak hang. Bekapcsoláskor egy pillanatra felvillan.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Blaupunkt 50/211i-gb-5b-fhbkup-eu",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "38000,- Ft + ÁFA"
+  },
+  {
+    "model": "Bluesky LT20C LCD TV",
+    "fault": "Nem ad képet.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Daewoo DLP-32B3T LCD TV",
+    "fault": "Csak rövid ideig működik.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Daewoo DLP-37C3FB LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Dual DL39F506P4CW",
+    "fault": "Nincs kép.",
+    "repair": "LED háttér csere.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Fujitsu Siemens Computers MYRICA V30-1 LCD TV",
+    "fault": "Nincs kép.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Funai LC5-D32BB/1 LCD TV",
+    "fault": "Elfüstölt.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Gaba GLV-3286 LED TV",
+    "fault": "Néhány óra múlva kikapcsol.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Gericom GTV2610 LCD TV",
+    "fault": "Bevillan a kép.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Gericom GTW47 LCD TV",
+    "fault": "Csíkos a kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Goodmans LD2665D LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Grundig 32XLC325BA LCD TV",
+    "fault": "Nincs kép.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Grundig 40VLE4324BF LED TV",
+    "fault": "Nincs kép, csak hang.",
+    "repair": "LED háttér javítás.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Grundig 40VLE8120BG LCD TV",
+    "fault": "Sistereg a hang",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Grundig Amira 15 LCD TV",
+    "fault": "Nem ad képet, hang sincs.",
+    "repair": "Táp-inverter javítás.",
+    "price": "5000,- Ft + ÁFA"
+  },
+  {
+    "model": "Hannspree GT02-32E1 LCD TV",
+    "fault": "Recseg a hang.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Humax LDE-40A/DE LCD TV",
+    "fault": "Helyenként nincs háttérvilágítás, villog.",
+    "repair": "Inverter javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Hyundai DLF32295 SMART LED TV",
+    "fault": "Hang van, kép nincs.",
+    "repair": "LED panel javítás.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Hyundai DLF40285SMART LED TV",
+    "fault": "Bekapcsoláskor 4-et villog a LED.",
+    "repair": "LED háttér javítás.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Hyundai DLH32195MP4CR",
+    "fault": "Kiégett a LED.",
+    "repair": "LED háttér javítás.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Hyundai HLT-3210 LCD TV",
+    "fault": "Sokszor nem lehet bekapcsolni.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Hyundai HLX-1959 LCD TV",
+    "fault": "Nincs kép, működésképtelen.",
+    "repair": "Táp-inverter javítás.",
+    "price": "7000,- Ft + ÁFA"
+  },
+  {
+    "model": "Hyundai LLF24814MP4R LED TV",
+    "fault": "Nem kapcsol be. LED nem ég.",
+    "repair": "Tápegység javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "IIyama Prolite C301WT LCD TV",
+    "fault": "Bekapcsoláskor csak felvillan a kép.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "iiyama Prolite C301WT LCD TV",
+    "fault": "Néha nem kapcsol be, kifehéredik.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Iryder LED37R500 LED TV",
+    "fault": "Nem működik.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "JVC LT-32A70SU LCD TV",
+    "fault": "A kép pirosas, rózsaszínes.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "JVC LT-32R71BU LCD TV",
+    "fault": "Kicsit megy, majd függőleges csíkok.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 27LC2R HDMI LCD TV",
+    "fault": "Nincs kép, csak hang.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 27LC2R LCD TV",
+    "fault": "Elment a kép.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 27LC2R-ZJ LCD TV",
+    "fault": "Felvillan a kép, aztán csak halványan látszik.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LA620S LED TV",
+    "fault": "Nincs kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LB5610 LCD TV",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LB5700 LED TV",
+    "fault": "Nem jön be a kép.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LB570B LED TV",
+    "fault": "Elmegy a kép.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LB5800 LED TV",
+    "fault": "Csak rövid ideig ad képet.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LC2RR LCD TV",
+    "fault": "Bemelegedéskor recsegő hangot ad, egyéb hibák.",
+    "repair": "Táp-inverter, és vezérlőpanel javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LC56 LCD TV ",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LE5300 LED TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Főtáp javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LF5610 LED TV",
+    "fault": "Csak halvány kép van.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LF592U LED TV",
+    "fault": "LED hiba. ",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LF632V LCD TV",
+    "fault": "Két LED fényesen világít a többi nagyon halványan",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LG2000 LCD TV",
+    "fault": "Nem lehet bekapcsolni, hibás.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LN536B LED TV",
+    "fault": "Csak rövid ideig ad képet.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LN536B LED TV",
+    "fault": "1 másodpercig van kép.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LN540B LED TV",
+    "fault": "Hang van, kép nincs.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LN570B LED TV",
+    "fault": "Pillanatra ad képet.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LN575S LED TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LS5600 LED TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 32LX2R LCD TV ",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 37LF65 LCD TV",
+    "fault": "Nincs kép, csak hang.",
+    "repair": "Táp, és inverter javítás.",
+    "price": "12000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 37LF76 LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 37LG2000 LCD TV",
+    "fault": "Nem indul a TV. Előtte nem lehetett csatornát váltani.",
+    "repair": "Inverter, vezérlőpanel javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 37LG5000 LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 39LA620S LCD TV",
+    "fault": "LED hiba. ",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 39LA620S LED TV",
+    "fault": "Működés közben elment a kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 39LB650V LED TV",
+    "fault": "Hiányzik a háttérvilágítás.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 39LN5400 LED TV",
+    "fault": "Nem jelenik meg semmi.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 39LN575S LED TV",
+    "fault": "Nincs kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 40LF630V LED TV",
+    "fault": "Nem jelenik meg a kép, csak a hang.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LA6130 LED TV",
+    "fault": "Halvány a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LA620S LED TV",
+    "fault": "Csak egy pillanatra van kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LB5500 LED TV",
+    "fault": "Hiányzik a háttérvilágítás.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LB5610 LED TV",
+    "fault": "Elveszti a csatornákat.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LB5700 LED TV",
+    "fault": "Semmi nem látszik.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LB580V LED TV",
+    "fault": "Csak felvillan a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LB620V LED TV",
+    "fault": "Nincs kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LB630V LED TV",
+    "fault": "Csak nagyon halvány kép van.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LB650V LED TV",
+    "fault": "Csak egy pillanatra van kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LB650V LED TV",
+    "fault": "Kép nincs, hang van.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LB650V LED TV",
+    "fault": "Csak a logóig jut el.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LD420 LED TV",
+    "fault": "Antenna bemenetről nincs kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LF5610 LCD TV",
+    "fault": "Nem kapcsol be, csak villog a LED.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LF580V LED TV",
+    "fault": "Nem jelenik meg a kép, csak felvillan.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LF652V LCD TV",
+    "fault": "Egy LED erősen világít.",
+    "repair": "LED háttér javítás.",
+    "price": "18000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LF652V LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LG3000 LCD TV",
+    "fault": "Piros a kép.",
+    "repair": "T-CON javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LG5000 LCD TV",
+    "fault": "Hang van, kép nincs, csak szinek.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LN5400 LED TV",
+    "fault": "Nem megy a háttérvilágítás.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LN5400 LED TV",
+    "fault": "Leesett, és kiverte a biztosítékot.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LN5406 LED TV",
+    "fault": "Nincs kép, hang van.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LN5700 LED TV",
+    "fault": "Nem jelenik meg a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LN575S LED TV",
+    "fault": "Csak halványan látszik a menü.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LN575S LED TV",
+    "fault": "Hang van, kép nincs.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LS55A LED monitor",
+    "fault": "Csak egy rövid ideig ad képet.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LW5590 LED TV",
+    "fault": "Nem indul, villog.",
+    "repair": "Tápegység javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LW5590-ZE LED TV",
+    "fault": "Nincs kép, csak a ledek villognak.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 42LX 6500 3D LED TV",
+    "fault": "Se kép, se hang, csak a kezelőszervekre reagál.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43F510V LED TV",
+    "fault": "Pár perc után élvezhetetlen a kép.",
+    "repair": "T-CON javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43LF630V LED TV",
+    "fault": "Csak hang van.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43LH510V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43LH590V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43UF6409 LED TV",
+    "fault": "Kékes lila a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43UF640V LED TV",
+    "fault": "Kékes lila a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43UH603V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43UH610V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43UH6207 LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43UH620V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43UJ634V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43UJ635V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 43UJ701V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 47LA6130 LED TV",
+    "fault": "Nincs kép, csak hang.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 47LA620S LED TV",
+    "fault": "Nincs kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 47LB5500 LED TV",
+    "fault": "Nincs kép, csak hang.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 47LB5800 LED TV",
+    "fault": "Nincs kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 47LB650V LED TV",
+    "fault": "Nincs háttérvilágítás.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 47LB650V LED TV",
+    "fault": "Csak a logoig jut el.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 47LB671V LED TV",
+    "fault": "Bekapcsolás után a logónál megáll.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 47LB730 LED TV",
+    "fault": "Csak a logóig jut el.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 47LN5400 LED TV",
+    "fault": "Nem ad képet.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 47LN575S LED TV",
+    "fault": "Nincs kép, csak hang.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49LB5500 LED TV",
+    "fault": "Nem ad képet.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49LF630V LED TV",
+    "fault": "Nincs kép, csak hang.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49LH510V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49LH590V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49LH630V-ZJ LED TV",
+    "fault": "Mindig kékes a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49UF6409 LED TV",
+    "fault": "Kékes, lila a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49UF640V LED TV",
+    "fault": "Lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49UF640V LED TV",
+    "fault": "Szemcsés a kép, de a menü jó.",
+    "repair": "Vezérlőpanel csere.",
+    "price": "40000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49UH6207 LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49UH620V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49UJ634V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49UJ635V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 49UJ701V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 50LA5700 LED TV",
+    "fault": "Nem ad képet.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 50LA620S LED TV",
+    "fault": "Nincs kép.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 50LB580V LED TV",
+    "fault": "Nincs háttérfény.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 50LB650V LED TV",
+    "fault": "Csak nagyon halványan látszik a logo.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 50LN575S LED TV",
+    "fault": "Nincs háttérvilágítás.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 55LA620S LED TV",
+    "fault": "Nincs háttérfény.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 55LB580V LED TV",
+    "fault": "Csak nagyon halványan látszik a logo.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 55LB650V LED TV",
+    "fault": "Nincs háttérvilágítás.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 55LN575S LED TV",
+    "fault": "Csak halvány kép van.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 55UJ635V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG 55UJ701V LED TV",
+    "fault": "Kékes, lilás a kép.",
+    "repair": "LED háttér csere.",
+    "price": "45000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG Flatron M208WA-BZ LCD TV",
+    "fault": "Hang van, kép nincs.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG Flatron M2262-PZ LCD TV",
+    "fault": "Se kép, se hang",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG Flatron M227WD-PZ LCD TV",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Táp-inverter, és vezérlőpanel javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG FLATRON M2762D LCD TV",
+    "fault": "Csak kis ideig van kép.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG Flatron RZ-15LA32 LCD monitor+TV",
+    "fault": "Bekapcsoláskor csak egy pillanatra van kép.",
+    "repair": "Táp-inverter javítás.",
+    "price": "5000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG M198WA LCD monitor+TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Táp-inverter javítás.",
+    "price": "6000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG M2350D Full HD LCD TV",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG RZ 26LZ50 LCD TV",
+    "fault": "Zöld, és hullámzik a kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "LG RZ-37LZ55 LCD TV",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Manhattan LCD20-01 LCD TV",
+    "fault": "Nincs kép, csak hang.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Mirai DML-520N100 LCD TV",
+    "fault": "Bekapcsolás után serceg, és kikapcsol.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Navon N40TX279FHD LED TV",
+    "fault": "Nehezen kapcsol be.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Orion K3235M7E LCD TV",
+    "fault": "Hang van, kép csak egy pillanatig.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Orion LCD PT37S LCD TV",
+    "fault": "Nem működik.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Orion LCD T32-D LCD TV",
+    "fault": "Nem működik.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Orion PIF40-DLED LED TV",
+    "fault": "Csak hangot ad.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Orion PT26S LCD TV",
+    "fault": "Nincs kép, csak villog a LED.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Orion T28D/LED LED TV",
+    "fault": "Kikapcsol.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Panasonic TH-32EF1E LED monitor",
+    "fault": "Elment a kép.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Panasonic TX-43GX550E",
+    "fault": "Hang van, kép nincs.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Panasonic Viega TX-32LM70P LCD TV",
+    "fault": "Nincs kép.",
+    "repair": "T-CON panel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 15PF4121/58 LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Táp-inverter javítás.",
+    "price": "5000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 180MT LCD monitor/TV",
+    "fault": "A kép felső része sötétebb.",
+    "repair": "Inverter javítás.",
+    "price": "7000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 22PFL3403/10",
+    "fault": "Felül halvány a háttér.",
+    "repair": "Inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 24PFS4022/12",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Tápegység javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 24PHH4000/88 LED TV",
+    "fault": "Nem kap áramot.",
+    "repair": "Tápegység javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 30PF9946/12 Flat TV",
+    "fault": "Hang van, kép nincs.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 32PFH4309/88 LED TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 32PFL3008H/12 LED TV",
+    "fault": "Nem csinál semmit.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 32PHH4101/88 LED TV",
+    "fault": "Háttérvilágítás hiba.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 37PFL5405H/12 LCD TV",
+    "fault": "Nem kapcsol be, LED háromszor villog.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 39PFL3008H/12",
+    "fault": "Sötét a képernyő, hang van.",
+    "repair": "LED háttér javítás.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 39PFL4398H/12",
+    "fault": "Nem kapcsol be.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 42PFL7662D LCD TV",
+    "fault": "Jobb oldalon elmegy a kép egy másodperc múlva, utána a másik oldalon is.",
+    "repair": "Inverter javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 42PFL7962D LCD TV",
+    "fault": "LED felvillan, nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 42PFL7962D LCD TV",
+    "fault": "LED felvillan, de nem kapcsol be.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips 50PUS6162/12 LED TV",
+    "fault": "Csíkos a kép.",
+    "repair": "T-CON panel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips Flat TV 20PF512/58",
+    "fault": "Villog a bekapcsoló LED.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Philips UVSH T260XW02V4 LCD TV",
+    "fault": "Nincs kép.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Prima LC-32w19s LCD TV",
+    "fault": "Nem ad képet, hangot, LED villog.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung 305T LCD TV",
+    "fault": "Csíkos a kép.",
+    "repair": "Kijelző javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung HDTV LED monitor LT24C300",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE19R71B LCD TV",
+    "fault": "Automatikus csatornaváltás.",
+    "repair": "Kezelőpanel javítás.",
+    "price": "7000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE20S51BU LCD TV",
+    "fault": "Nincs kép, időnként működik.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE26S81 LCD TV",
+    "fault": "Nem ad képet.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE26S81B LCD TV",
+    "fault": "Csíkos a kép.",
+    "repair": "Kijelző javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE27T51B LCD TV",
+    "fault": "Rövid ideig ad képet.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE27T51B LCD TV",
+    "fault": "Csíkos a kép.",
+    "repair": "T-CON panel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32A330 LCD TV",
+    "fault": "Túlfeszültséget kapott, robbant.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32A431 LCD TV",
+    "fault": "Magától kikapcsol.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32A431 LCD TV",
+    "fault": "Kifehéredik a kép.",
+    "repair": "T-CON panel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32A456C2D LCD TV",
+    "fault": "Nem mindig kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32A551 LCD TV",
+    "fault": "Égett szaga van, nincs kép.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32B350 LCD TV",
+    "fault": "Villámcsapás után nem működik.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "12000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32D403 LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32E420 LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32M87 LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32R32B LCD TV",
+    "fault": "Hang van, kép nincs. Ha van hang, akkor a LED nem világít.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32R32BX/XEH LCD TV",
+    "fault": "Csak egy pillanatra van kép.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32R71W LCD TV",
+    "fault": "Nincs kép, csak villog a LED.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32R72B LCD TV",
+    "fault": "A kép elmosódik, foltok jelennek meg.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32R82 LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32R82S LCD TV",
+    "fault": "Nem kapcsol be, LED villog.",
+    "repair": "T-CON panel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32S62B LCD TV",
+    "fault": "Semmi nem jelenik meg.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE32S71B LCD TV",
+    "fault": "Csak egy pillanatig van képe.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE37A437 LCD TV",
+    "fault": "Nem színhelyes, elmosódik a kép.",
+    "repair": "T-CON panel javítás.",
+    "price": "14000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE37A636 LCD TV",
+    "fault": "Ki-be kapcsolgatott. Most be sem kapcsol.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE37A656 LCD TV",
+    "fault": "Színek elmosódnak.",
+    "repair": "T-CON panel javítás.",
+    "price": "14000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE37B530 LCD TV",
+    "fault": "Kikapcsol magától.",
+    "repair": "Táp-inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE37C550 LCD TV",
+    "fault": "Nem mindig kapcsol be.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE37M87BD LCD TV",
+    "fault": "Csak rövid ideig van kép.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE37M87BD LCD TV",
+    "fault": "Inverzek lettek a színek.",
+    "repair": "T-CON panel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE37R82B LCD TV",
+    "fault": "Nincs kép, villog a led.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE37S81B LCD TV",
+    "fault": "Színes csíkok vannak a képben.",
+    "repair": "T-CON panel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40A457 LCD TV",
+    "fault": "LED villog, nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40A656 LCD TV",
+    "fault": "Csíkos a kép.",
+    "repair": "Kijelző javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40B652 LCD TV",
+    "fault": "Hangyás a kép.",
+    "repair": "T-CON javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40D550 LCD TV",
+    "fault": "Csíkos a kép.",
+    "repair": "Kijelző javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40M86BD LCD TV",
+    "fault": "Nem jelenik meg a kép.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40M87BDX/XEC LCD TV",
+    "fault": "Működésképtelen, ki-be kapcsolgat.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40R51B LCD TV",
+    "fault": "Nincs kép, hang van.",
+    "repair": "T-CON javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40R74BD LCD TV",
+    "fault": "Nincs kép, csak ki-be kapcsol.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40R74BDX/XEU LCD TV",
+    "fault": "Nem lehet bekapcsolni, kattog.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40R82BX/XEC LCD TV",
+    "fault": "Nincs kép, villog a led.",
+    "repair": "Tápegység, vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40S62B LCD TV",
+    "fault": "Nem ad képet, működésképtelen.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40S71B LCD TV",
+    "fault": "Nem ad képet.",
+    "repair": "Tápegység, vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE40S81BX/XEC LCD TV",
+    "fault": "Nem jelenik meg a kép.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE46M87BDR/XEC LCD TV",
+    "fault": "Nincs kép, csak kattog.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LE52M87BDR/XEC LCD TV",
+    "fault": "Nem ad képet. Korábban 3-5 perc után kapcsolt be.",
+    "repair": "Tápegység javítás.",
+    "price": "15000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung LT27D380 LED TV",
+    "fault": "Egy idő után foltos a kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung PS-50C7HD Plazma TV",
+    "fault": "Hang van, kép nincs.",
+    "repair": "YSUS javítás.",
+    "price": "38000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung RBLE40R73BDR/XEC LCD TV",
+    "fault": "Nincs kép, csak kattog.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung RBLE46A656 LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung RBUE32C5100QWRXU LED TV",
+    "fault": "Össze vissza csatornákat vált, ki-be kapcsol.",
+    "repair": "Kezelőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung SyncMaster 2032MW LCD TV",
+    "fault": "Nem ad képet. Többszöri ki-be kapcsolás után működik.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung Syncmaster 711MP LCD monitor+TV",
+    "fault": "Kattog.",
+    "repair": "Táp-inverter javítás.",
+    "price": "6000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung Syncmaster 910MP LCD monitor/TV",
+    "fault": "A TV képe fekete-fehér lesz. Elmegy a kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "7000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung Syncmaster 940MW LCD monitor/TV",
+    "fault": "A távirányítóval nehéz bekapcsolni. Hosszan kell nyomni.",
+    "repair": "Táp-inverter javítás.",
+    "price": "7000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung Syncmaster 941MP LCD monitor/TV",
+    "fault": "LED sem gyullad ki.",
+    "repair": "Táp-inverter javítás.",
+    "price": "7000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung SyncMaster LE20S51BP LCD TV",
+    "fault": "Pillanatra felvillan, aztán nincs kép.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung SyncMaster P2370HD LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung SyncMaster P2770HD LCD TV",
+    "fault": "Csak felvillan a kép.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung SyncMaster T200HD LCD TV",
+    "fault": "Nem indul, LED-ek sem világítanak.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung T24C300 HDTV monitor LED TV",
+    "fault": "Nincs kép, csak villog a LED.",
+    "repair": "Tápegység javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung T27A300 LED TV",
+    "fault": "HDMI1 nem működik. 1-2 óra után újraindul.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE22ES5000W LED TV",
+    "fault": "Nem ad képet.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE26C4000 LED TV",
+    "fault": "A hangerő föl-le változik.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32C5000 LED TV",
+    "fault": "Nem lehet bekapcsolni, LED nem világít.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32C6510 LED TV",
+    "fault": "Digitális jelnél csíkos, kockás a kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32D4010 LED TV",
+    "fault": "Villámcsapás volt, nem csinál semmit.",
+    "repair": "Tápegység javítás.",
+    "price": "12000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32D5500 LED TV",
+    "fault": "Csak a logoig jut el.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32D6100 LED TV",
+    "fault": "Kb 15 másodperc múlva kikapcsol.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32EH4000 LED TV",
+    "fault": "Csak hang van.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32EH5000 LED TV",
+    "fault": "Nincs kép.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32EH5000 LED TV",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32EH5300 LED TV",
+    "fault": "Nem ad képet.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32EH6030 LED TV",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32F4000 LED TV",
+    "fault": "Nem látszik a kép.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32F4500 LED TV",
+    "fault": "Villámcsapás volt.",
+    "repair": "Tápegység csere, vezérlőpanel javítás.",
+    "price": "30000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32F5000 LED TV",
+    "fault": "Nem látszik a kép.",
+    "repair": "LED panel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32F5000 LED TV",
+    "fault": "Csak a háttérvilágítás működik.",
+    "repair": "T-CON panel javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32F5300 LED TV",
+    "fault": "Nem ad képet.",
+    "repair": "T-CON panel javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32F5500 LED TV",
+    "fault": "Csak halványan látszik a menü.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32F5700 LED TV",
+    "fault": "Nincs háttérfény.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32F6100 LED TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32F6400 LED TV",
+    "fault": "Alul halvány a kép.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32F6400 LED TV",
+    "fault": "Nincs kép.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32H6200 Smart TV",
+    "fault": "Smart felirat után nem reagál semmire.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE32j5000 LED TV",
+    "fault": "HDMI probléma volt, most nincs kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE37D5000 LED TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE37D5700 LED TV",
+    "fault": "Újraindul.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE39F5000 LED TV",
+    "fault": "Nem kapcsol be, csak a led villog.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40D5000 LED TV",
+    "fault": "Csattant, azóta nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40D5500 Smart LED TV",
+    "fault": "Nem talál bemenetet.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40D5500 Smart LED TV",
+    "fault": "Ki-Be kapcsol magától. Újraindul.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40EH5300 LED TV",
+    "fault": "A kijelzőn nem látszik semmi.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40EH6030 3D LED TV",
+    "fault": "Nincs kép, led villog.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40EH6030 3D LED TV",
+    "fault": "Nem kapcsol be, és a HDMI2 bemenet is rossz.",
+    "repair": "Tápegység, vezérlőpanel javítás.",
+    "price": "32000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40EH6030 3D LED TV",
+    "fault": "Samsung logo megjelenik, majd újraindul.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40ES6100 3D Smart LED TV",
+    "fault": "Samsung logo után eltűnik a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40ES6710 3D SmartLED TV",
+    "fault": "HDMI bemenetek nem működnek.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40ES7000S 3D Smart LED TV",
+    "fault": "Néha ki-be kapcsol, Wi-Fi nem működik.",
+    "repair": "Tápegység javítás, Wi-Fi modul csere.",
+    "price": "32000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F5000AW LED TV",
+    "fault": "Van hang, de kép nincs.",
+    "repair": "T-CON javítás.",
+    "price": "22000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F5300 LED TV",
+    "fault": "Van hang, de kép nincs.",
+    "repair": "T-CON javítás.",
+    "price": "22000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F5500 LED TV",
+    "fault": "Nincs kép, hang van.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F6100 LED TV",
+    "fault": "Működés közben elment a kép.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F6320 LED TV",
+    "fault": "Egy csíkban sötétebb a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F6400 3D Smart TV",
+    "fault": "Egy csíkban sötétebb a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F6400 3D Smart TV",
+    "fault": "Áramszünet után nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F6500 LED TV",
+    "fault": "Hiányos a háttérfény.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F6500SS LED TV",
+    "fault": "Időnként zizis, pöttyös a kép.",
+    "repair": "T-CON javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F6640 LED TV",
+    "fault": "Nem kapcsol be, LED sem ég.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F7000 LED TV",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE40F8000 LED TV",
+    "fault": "Nem csinál semmit.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE46ES8000 3D Smart TV",
+    "fault": "Wichesterrel használva lefagy.",
+    "repair": "Tápegység javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE46ES8000 3D Smart TV",
+    "fault": "Kép egy idő után csíkos lesz, majd újraindul a TV.",
+    "repair": "T-CON javítás.",
+    "price": "22000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE55F6640 3D LED TV",
+    "fault": "Nincs kép. Előtte zöld volt.",
+    "repair": "T-CON csere.",
+    "price": "26000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung UE65MU6102 LED TV",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Tápegység javítás.",
+    "price": "20000,- Ft + ÁFA"
+  },
+  {
+    "model": "Samsung VE20EO LE20S61BP LCD TV",
+    "fault": "Egy pillanatra felvillan a kép, majd elmegy, hang van.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Sharp Aquos LC-32D44E-BK LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "14000,- Ft + ÁFA"
+  },
+  {
+    "model": "Sharp LC-22LE510E LED TV",
+    "fault": "Nem kapcsol be. Előtte működés közben kikapcsolt.",
+    "repair": "Tápegység javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Sharp LC-42SB55E LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Sharp LC-49CUF8372ES LED TV",
+    "fault": "Led háttér hiba.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Sharp LC-49CUF8462ES LED TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Silva Schneider LDT 3215 LCD TV",
+    "fault": "Nincs kép, a led villog.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Sony Bravia 55XD7005 SMART LED TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "38000,- Ft + ÁFA"
+  },
+  {
+    "model": "Sony Bravia KDL-22BX200 LCD TV",
+    "fault": "Nincs kép, csak hang.",
+    "repair": "Táp-inverter javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Sony KDL-32EX505 LCD TV",
+    "fault": "Se kép se hang.",
+    "repair": "T-CON panel javítás.",
+    "price": "16000,- Ft + ÁFA"
+  },
+  {
+    "model": "Technika 24LF91324D LED TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Technika 26-942 LCD TV",
+    "fault": "Nem kapcsol be.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Technika 40\" 904B AW14 LED TV",
+    "fault": "Újraindul.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "28000,- Ft + ÁFA"
+  },
+  {
+    "model": "Technika 50\" 904B AW14 LED TV",
+    "fault": "Ki-be kapcsol magától.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "38000,- Ft + ÁFA"
+  },
+  {
+    "model": "Technika LCD37-107CE LCD TV",
+    "fault": "LED világít, de nincs kép.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Thomson 20LB040S5 LCD TV",
+    "fault": "Adapteren LED villog, nem kapcsol be.",
+    "repair": "Külső tápegység javítás.",
+    "price": "5000,- Ft + ÁFA"
+  },
+  {
+    "model": "Thomson 30LB020S4 LCD TV",
+    "fault": "Csak rövid ideig van kép.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Thomson 32HD3306 LCD TV",
+    "fault": "Nincs háttérvilágítás.",
+    "repair": "LED háttér csere.",
+    "price": "25000,- Ft + ÁFA"
+  },
+  {
+    "model": "Thomson 32LM051B6 LCD TV",
+    "fault": "Nincs kép, csak hang.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Toshiba 22AV733G LCD TV",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Tápegység javítás.",
+    "price": "8000,- Ft + ÁFA"
+  },
+  {
+    "model": "Toshiba 40L1333DG LED TV",
+    "fault": "Nem látszik a kép.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "Toshiba 40L1353N LED TV",
+    "fault": "Nincs háttérvilágítás.",
+    "repair": "LED háttér csere.",
+    "price": "35000,- Ft + ÁFA"
+  },
+  {
+    "model": "TWF LCD3261ID LCD TV",
+    "fault": "Se kép se hang.",
+    "repair": "Tápegység javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Universum FT-LCD8145 TV",
+    "fault": "Hang van, kép nincs.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "V7 Videoseven LTV40DA LCD TV",
+    "fault": "Nincs kép.",
+    "repair": "Tápegység javítás.",
+    "price": "11000,- Ft + ÁFA"
+  },
+  {
+    "model": "Videoseven LTV 30C LCD TV",
+    "fault": "Háttérvilágítás elmegy.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Vizart LTW30101 LCD TV",
+    "fault": "Nem ad képet. Hang van.",
+    "repair": "Inverter javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Vortex LED-V24ZD03DCF",
+    "fault": "Antenna csatlakozó letört.",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "5000,- Ft + ÁFA"
+  },
+  {
+    "model": "Vortex VLED-26H1D LED TV",
+    "fault": "Csak a logo jelenik meg, nem lép tovább",
+    "repair": "Vezérlőpanel javítás.",
+    "price": "9000,- Ft + ÁFA"
+  },
+  {
+    "model": "Xpert Tech 7005L-TD LCD TV",
+    "fault": "Egy idő után kikapcsol.",
+    "repair": "Tápegység javítás.",
+    "price": "6000,- Ft + ÁFA"
+  },
+  {
+    "model": "Xpert tech 9005L-TD LCD monitor/TV",
+    "fault": "Nem lehet bekapcsolni.",
+    "repair": "Táp-inverter javítás.",
+    "price": "7000,- Ft + ÁFA"
+  }
+ ]
